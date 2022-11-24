@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hello World
 // @namespace    http://k1475369.top//
-// @version      0.1
+// @version      0.2
 // @description  New Script!
 // @author       Kuroichi7
 // @match        *://*
@@ -15,5 +15,5 @@
     'use strict';
 
     // Your code here...
-    console.log("Hello World");
+    console.log("Hello Script!");
 })();
